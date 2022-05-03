@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá, Você 👋
 
-<!--
-**Jyagami99/Jyagami99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😃 Me chamo João Marcelo.
+- 📚 Estou cursando de Análise e desenvolvimento de sistemas no IFSP - São Carlos.
+- 🖥️ Estudante de desenvolvimento web pela Driven Education.
+- 👨‍💻 Pretendo me profissionalizar como Fullstack Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jyagami99&show_icons=true&locale=pt-BR&theme=dracula" />
+  </a>
+</details>
+<details>
+  <summary>:zap: Wakatime Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=jyagami99&locale=pt-BR&theme=dracula" />
+  </a>
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyagami99&locale=pt-BR&layout=compact&theme=dracula" />
+  </a>
+</details>
