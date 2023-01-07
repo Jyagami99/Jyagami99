@@ -1,13 +1,32 @@
-<h1 align="center">Olá, Você 👋</h1>
+<h1 align="center"><b>Olá, Você </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+GitHub;Pegue+um+caf%C3%A9+e+sinta-se+em+casa" alt="Typing SVG" /></a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+
+<picture>
+  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
+</picture>
+
+<br/>
 
 <div align="left">
-  <p>- 😃 Me chamo João Marcelo.</p>
-  <p>- 📚 Estou cursando de Análise e desenvolvimento de sistemas no IFSP - São Carlos.</p>
-  <p>- 🖥️ Estudante de Engenharia de Software pela Driven Education.</p>
-  <p>- 👨‍💻 Pretendo me especializar como Fullstack Developer.</p>
+  <p>- 😃 Me chamo <strong>João Marcelo</strong>.</p>
+  <p>- 📚 Estou no 3 semestre do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+  <p>- 🖥️ Engenheiro de Softwares formado pela <strong>Driven Education</strong>.</p>
+  <p>- 👨‍💻 Atualmente trabalhando como estágiario na <strong>BTG Pactual</strong>.</p>
 </div>
 
-<h2>Linguagens e Frameworks</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e Frameworks**
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +72,11 @@
 ![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h3 align="center">Minhas estátisticas do Github</h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Minhas estátisticas do Github**
 
 <div>
   <details>
