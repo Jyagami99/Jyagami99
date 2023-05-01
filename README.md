@@ -9,14 +9,15 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
+  <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width = 250px>
 </picture>
 <br/>
 <div align="left">
   <p>- 😃 Me chamo <strong>João Marcelo</strong>.</p>
   <p>- 📚 Estou no 3 semestre do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
   <p>- 🖥️ Engenheiro de Software formado pela <strong>Driven Education</strong>.</p>
-  <p>- 👨‍💻 Atualmente trabalhando como estágiario na <strong>BTG Pactual</strong>.</p>
+  <p>- 🧑🏽‍💻 Atualmente trabalhando como estágiario na <strong>BTG Pactual</strong>.</p>
+  <p>- ⚛️ Procuro me aprofundar nos frameworks <strong>React</strong> e <strong>Angular</strong>.</p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
