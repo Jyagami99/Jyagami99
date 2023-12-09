@@ -14,10 +14,10 @@
 <br/>
 <div align="left">
   <p>- 😃 Me chamo <strong>João Marcelo</strong>.</p>
-  <p>- 📚 Estou no 3 semestre do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+  <p>- 📚 Estou no 5 semestre do curso de <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
   <p>- 🖥️ Engenheiro de Software formado pela <strong>Driven Education</strong>.</p>
-  <p>- 🧑🏽‍💻 Atualmente trabalhando como estágiario na <strong>BTG Pactual</strong>.</p>
-  <p>- ⚛️ Procuro me aprofundar nos frameworks <strong>React</strong> e <strong>Angular</strong>.</p>
+  <p>- 🧑🏽‍💻 Apaixonado por video-games, cinema e <strong>Star Wars</strong>.</p>
+  <p>- ⚛️ Procuro me aprofundar nos frameworks <strong>Angular</strong> e <strong>React</strong>.</p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
